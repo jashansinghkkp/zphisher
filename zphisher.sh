@@ -3,7 +3,7 @@
 ##   Zphisher 	: 	Automated Phishing Tool
 ##   Author 	: 	TAHMID RAYAT 
 ##   Version 	: 	2.3.5
-##   Github 	: 	https://github.com/htr-tech/zphisher
+##   Github 	: 	https://github.com/jashansinghkkp/zphisher
 
 
 ##                   GNU GENERAL PUBLIC LICENSE
@@ -350,7 +350,7 @@ about() {
 	{ clear; banner; echo; }
 	cat <<- EOF
 		${GREEN} Author   ${RED}:  ${ORANGE}TAHMID RAYAT ${RED}[ ${ORANGE}HTR-TECH ${RED}]
-		${GREEN} Github   ${RED}:  ${CYAN}https://github.com/htr-tech
+		${GREEN} Github   ${RED}:  ${CYAN}https://github.com/jashansinghkkp
 		${GREEN} Social   ${RED}:  ${CYAN}https://tahmidrayat.is-a.dev
 		${GREEN} Version  ${RED}:  ${ORANGE}${__version__}
 
